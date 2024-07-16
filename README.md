@@ -15,7 +15,7 @@ After this step, you need to configure a virtual environment, like this:
 ```python -m venv <virtual_environment_name>```
 
 And activate it: 
-```venv\Scripts\activate```
+```<virtual_environment_name>\Scripts\activate```
 
 Finally, you need to instal the ```requirements.txt``` file, like this:
 ```pip install -r requirements.txt``` and so you can run the code.
@@ -27,4 +27,4 @@ Feel comfortable to use it as you need.
 
 <h2>Credits</h2>
 
-All the content in this project was a part of the event<i>Jornada Python</i> from <i><a target="_blank" href="https://www.youtube.com/@HashtagTreinamentos">Hashtag Treinamentos</a></i>. If you want to learn Python, in good content in brazilian portuguese, go ahead and see how amazing is Lira's didactic. 
+All the content in this project was a part of the event <i>Jornada Python</i> from <i><a target="_blank" href="https://www.youtube.com/@HashtagTreinamentos">Hashtag Treinamentos</a></i>. If you want to learn Python, in good content in brazilian portuguese, go ahead and see how amazing is Lira's didactic. 
